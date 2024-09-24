@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gdj3t27j3-nodejs-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/gdj3t27j3-nodejs
